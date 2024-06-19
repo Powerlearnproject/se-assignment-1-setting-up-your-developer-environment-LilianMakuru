@@ -1,0 +1,7 @@
+my pc had all the necesary setup so i didnot install any since they were aalready installed but i can do mention the challengess
+that i got during my last installation
+1. i was not aware on how i can solve different errors after the installation
+2. i got hard time setting up variables since it waas my first time
+3. i couldn't configure mysql database by myself so i had to beg for an assistance  
+
+during the learning aat PLP i have gain much knowledge than when i installed on my first time i believe if i get a pc with no setup i can do it myselfff
